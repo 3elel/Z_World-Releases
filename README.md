@@ -1,16 +1,16 @@
-# TLIK for Windows
+# Z_World for Windows
 
-This repository contains public Windows builds of TLIK. The game's source code
+This repository contains public Windows builds of Z_World. The game's source code
 is kept in a separate private repository.
 
 ## Install
 
-1. [Download the latest TLIK installer](https://github.com/3elel/TLIK-Releases/releases/latest/download/TLIK-Installer.zip).
+1. [Download the latest Z_World installer](https://github.com/3elel/Z_World-Releases/releases/latest/download/Z_World-Installer.zip).
 2. Extract the ZIP.
-3. Double-click `Install-TLIK.bat`.
+3. Double-click `Install-Z_World.bat`.
 
-The installer creates a desktop shortcut. TLIK checks for a newer release each
+The installer creates a desktop shortcut. Z_World checks for a newer release each
 time that shortcut starts the game and installs updates automatically.
 
 Windows may show a SmartScreen warning because this early build is not digitally
-signed. Only download TLIK from this repository.
+signed. Only download Z_World from this repository.
